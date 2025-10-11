@@ -1,5 +1,0 @@
-{
-  "name":"Sample: Optimized entities",
-  "descriptions":["An optimized way of creating entities."],
-  "entry_point":"level.lua"
-}

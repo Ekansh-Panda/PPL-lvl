@@ -1,6 +1,0 @@
-{
-  "name": "Sample: Animation",
-  "descriptions": ["A smooth hexagon!"],
-  "entry_point": "level.lua",
-  "has_score_leaderboard": false
-}

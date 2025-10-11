@@ -1,6 +1,0 @@
-{
-  "name":"Sample: Sounds",
-  "descriptions":["Plays two different sounds from two different locations."],
-  "entry_point":"level.lua",
-  "has_score_leaderboard":false
-}
