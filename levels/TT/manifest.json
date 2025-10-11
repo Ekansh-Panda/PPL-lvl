@@ -1,0 +1,5 @@
+{
+  "name": "TiE",
+  "descriptions": ["Made by a tien"],
+  "entry_point": "level.lua"
+}
